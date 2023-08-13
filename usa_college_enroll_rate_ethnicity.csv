@@ -1,0 +1,13 @@
+﻿"Race/ethnicity","2010","2010-Standard Error","2021","2021-Standard Error",
+"Total","41.1777194164966","0.57109","38.056243585859","0.6527704274951",
+"American Indian/Alaska Native","41.37593484183859","6.59728","28.3614431803823","6.37345535488138",
+"Asian","63.61121430963834","2.69639","60.4756376661785","2.85710844141858",
+"Black","38.4404168630906","1.65739","36.6947298734668","1.85370781387568",
+"Hispanic","31.91106162548579","1.15244","33.4341626491948","1.35679687542248",
+"Pacific Islander","35.96304684969867","8.3629","44.7511462273892","10.2979294912779",
+"White","43.3109015155054","0.81159","38.3270762763991","0.93076652358681",
+"Two or more races","38.26214495793886","4.37737","35.0697030257993","4.04532854565577",
+
+
+"NOTE: To estimate the margin of error, the standard error is scaled based on the desired level of confidence in the estimate. Throughout the Condition of Education, margins of error are produced based on a 95 percent level of confidence. Margin of error is calculated as 1.96 * standard error.  Includes 18- to 24-year-olds enrolled in college or graduate school. Data are based on sample surveys of the civilian noninstitutionalized population, which excludes persons in the military and persons living in institutions (e.g., prisons or nursing facilities). Race categories exclude persons of Hispanic ethnicity. Although rounded numbers are displayed, the figures are based on unrounded data."
+"SOURCE: U.S. Department of Commerce, Census Bureau, Current Population Survey (CPS), October Supplement, 2010 and 2021. See Digest of Education Statistics 2022, table 302.60."
